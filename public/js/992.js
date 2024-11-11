@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[992],{1992:(e,n,t)=>{t.r(n),t.d(n,{default:()=>u});const s={name:"NotFound"};const u=(0,t(1900).Z)(s,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("h1",[e._v("Не найдено ;)")])}),[],!1,null,"15b46b4f",null).exports}}]);
